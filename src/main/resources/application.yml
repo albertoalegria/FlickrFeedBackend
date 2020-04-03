@@ -2,3 +2,9 @@ flickr:
   api:
     key: d2e62a189786782b2cabab6f32234e9a
     secret: 1eb1de4591359754
+
+logging:
+  level:
+    org.springframework.web: INFO
+    org.hibernate: INFO
+#    com.stori.flickr_feed.application.feign.FeedFeignClient: DEBUG
