@@ -3,6 +3,9 @@ flickr:
     key: d2e62a189786782b2cabab6f32234e9a
     secret: 1eb1de4591359754
 
+feign:
+  url: https://www.flickr.com/services/feeds/photos_public.gne?format=json&tagmode=any
+
 logging:
   level:
     org.springframework.web: INFO
