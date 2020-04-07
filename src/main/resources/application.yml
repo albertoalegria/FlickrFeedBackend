@@ -5,6 +5,7 @@ flickr:
 
 feign:
   url: https://www.flickr.com/services/feeds/photos_public.gne?format=json&tagmode=any
+  tags: home,outside,design,sunset,beach,water,sky
 
 logging:
   level:
